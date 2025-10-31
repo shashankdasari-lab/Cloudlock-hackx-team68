@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="form-center">
+  {% if not record %}
+    <div class="auth-card">
+      <h3>Invalid or expired link</h3>
+      <p><a href="{{ url_for('index') }}">Go home</a></p>
+    </div>
+  {% else %}
+    <div class="auth-card">
+      <h3>Access {{ record.type|capitalize }}</h3>
+      <p>Enter password to unlock.</p>
+      <form method="post">
+        <input type="password" name="password" placeholder="Enter password" required>
+        <button type="submit">Unlock</button>
+      </form>
+    </div>
+  {% endif %}
+</div>
+{% endblock %}

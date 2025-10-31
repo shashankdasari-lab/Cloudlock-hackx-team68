@@ -1,0 +1,26 @@
+[
+    {
+        "id": "27a70f6c-887e-4e19-9c48-88f380f99147",
+        "username": "_shashank.09_",
+        "password_hash": "$2b$12$OYDz.ImvWmwM9mxyc2a0tev2pLfvjXzyPfbwVLP2IapYB9mfQIlB.",
+        "guest": false
+    },
+    {
+        "id": "c209c60a-87c0-4f1f-8b41-1bda8d5c2fe4",
+        "username": "guest-967d3817",
+        "password_hash": "$2b$12$eqHYKcmNH4CKPbrQiRIziejJid7413crbZ1SCi/jCQNXr2MhKcNQO",
+        "guest": true
+    },
+    {
+        "id": "b5404f39-cbc6-4348-87ec-c8c55fed71ea",
+        "username": "guest-9897dcfa",
+        "password_hash": "$2b$12$SMBAy82wTpEXIEy9aQ104uQSr.vJQeqmp3mldhi8sx38NyUYVsz4u",
+        "guest": true
+    },
+    {
+        "id": "9d97de03-8f2e-4529-8075-5b07296bbfe6",
+        "username": "arjundas",
+        "password_hash": "$2b$12$Lo37fxLcc4ECxsNJ/BsAre8xf1DwnatPc98d1UD4pVT2C/c10M69K",
+        "guest": false
+    }
+]

@@ -1,0 +1,2 @@
+SECRET_KEY = "change_this_to_a_random_secret"
+DEBUG = True
