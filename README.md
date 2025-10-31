@@ -103,9 +103,7 @@ pip install -r requirements.txt
 # 4️⃣ Run the Flask app
 python app.py
 
-![Home Page](screenshots/home.png)
-![Dashboard](screenshots/dashboard.png)
-![Access Page](screenshots/access.png)
+
 
 
 
